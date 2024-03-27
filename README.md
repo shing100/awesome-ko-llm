@@ -9,11 +9,20 @@
 | 9(10)/10 | 6/10       | 3/10        | 6/10                       | 2/10              | 3/10                           | 7(8)/10    | - 한글
 | 한글답변  | 한글답변    |멀티턴 이해 불가 | 영어로답변 | 한글답변    | 한글답변           | 한글답변                       | 한글답변    |
 
-### 리서치
-## 평가 데이터셋
+## 리서치
 
-한국(ko-llm)에서는 다음의 데이터셋을 사용하여 한국어 LLM 모델의 성능을 평가하고 있습니다.
+### 대규모 언어 모델 평가 방법
 
+대규모 언어 모델(LLM)의 평가에 대한 광범위한 관점을 제공하고자 합니다. 
+
+LLM는 다양한 작업에서 뛰어난 능력을 보여주며 많은 주목을 받고 있지만, 개인 데이터 유출, 부적절하거나 해로운 콘텐츠 생성, 그리고 충분한 안전장치 없이 초지능 시스템이 등장할 수 있다는 우려도 있습니다. 
+
+LLM의 잠재력을 효과적으로 활용하고 안전하고 유익한 발전을 보장하기 위해, LLM의 철저하고 포괄적인 평가가 필수적입니다. 위에서 소개한 평가지표에 주로 소개되는 MMLU, Big-Bench, HellaSwag, HumanEval, Boolq 등 다양한 평가 방법이 이에 해당합니다. 
+
+리서치 도중 찾은 Evaluating Large Language Models: A Comprehensive Survey에서는 LLM 평가를 Knowledge and Capability Evaluation, Alignment Evaluation, Safety Evaluation, Specialized LLMs Evaluation, Evaluation Organization 로 분류합니다.
+
+### 한국(ko-llm)에서는 다음의 데이터셋을 사용하여 한국어 LLM 모델의 성능을 평가하고 있습니다.
+### 평가 데이터셋
 - Ko-ARC
 - Ko-HellaSwag  
 - Ko-MMLU
