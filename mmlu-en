@@ -1,10 +1,17 @@
-college_computer_science
-Consider the collection of all undirected graphs with 10 nodes and 6 edges. Let M and m, respectively, be the maximum and minimum number of connected components in any graph in the collection. If a graph has no selfloops and there is at most one edge between any pair of nodes, which of the following is true?	
-A) M = 10, m = 10
-B) M = 10, m = 1
-C) M = 7, m = 4
-D) M = 6, m = 4
-C
+In preparation for a writing unit on short stories, a teacher presents students with several examples of short stories and works with them to identify defining characteristics of the genre. Which of the following best describes this instructional strategy?	
+miscellaneous	
+A) Conferencing
+B) Discipline-based inquiry
+C) Self-Regulated Strategy Development
+D) Introduction-Body-Conclusion strategy	
+1B
+Paper will burn at approximately what temperature in Fahrenheit?	
+miscellaneous	
+A) 986 degrees
+B) 2125 degrees
+C) 3985 degrees
+D) 451 degrees	
+3D
 
 Resolution theorem proving for showing that a formula of propositional logic is not satisfiable has which of the following properties? I. It is a sound proof system in the sense that there does not exist a proof of the unsatisfiability of a satisfiable formula of propositional logic. II. It is a complete proof system in the sense that there is a proof of unsatisfiability for every unsa tisfiable formula of propositional logic. III. It is a succinct proof system in the sense that whenever an unsatisfiable formula F of propositional logic has a resolution proof, F also has a proof whose length is polynomial in the length of F.		
 A) I only
