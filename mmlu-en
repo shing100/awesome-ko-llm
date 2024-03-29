@@ -1,0 +1,73 @@
+college_computer_science
+Consider the collection of all undirected graphs with 10 nodes and 6 edges. Let M and m, respectively, be the maximum and minimum number of connected components in any graph in the collection. If a graph has no selfloops and there is at most one edge between any pair of nodes, which of the following is true?	
+A) M = 10, m = 10
+B) M = 10, m = 1
+C) M = 7, m = 4
+D) M = 6, m = 4
+C
+
+Resolution theorem proving for showing that a formula of propositional logic is not satisfiable has which of the following properties? I. It is a sound proof system in the sense that there does not exist a proof of the unsatisfiability of a satisfiable formula of propositional logic. II. It is a complete proof system in the sense that there is a proof of unsatisfiability for every unsa tisfiable formula of propositional logic. III. It is a succinct proof system in the sense that whenever an unsatisfiable formula F of propositional logic has a resolution proof, F also has a proof whose length is polynomial in the length of F.		
+A) I only
+B) III only
+C) I and II only
+D) I and III only
+C
+
+Which of the following statements describe(s) properties of a purely segmented memory system? I. It divides memory into units of equal size. II. It permits implementation of virtual memory. III. It suffers from internal fragmentation.	
+A) I only
+B) II only
+C) III only
+D) I and III	
+B
+
+high_school_statistics	
+All of the following statements are true for all discrete random variables except for which one?	
+A) The possible outcomes must all be numerical.
+B) The possible outcomes must be mutually exclusive.
+C) The mean (expected value) always equals the sum of the products obtained by multiplying each value by its corresponding probability.
+D) Approximately 95% of the outcomes will be within two standard deviations of the mean.	
+D
+
+Which of the following is a true statement about hypothesis testing?	
+A) If there is sufficient evidence to reject a null hypothesis at the 10% level, then there is sufficient evidence to reject it at the 5% level.
+B) Whether to use a one- or a two-sided test is typically decided after the data are gathered.
+C) If a hypothesis test is conducted at the 1% level, there is a 1% chance of rejecting the null hypothesis.
+D) The power of a test concerns its ability to detect an alternative hypothesis.	
+D
+
+An outlier is an observation that	
+A) is seen more frequently than the other observations in the data set
+B) is seen less frequently than the other observations in the data set
+C) is always smaller than the other observations in the data set
+D) is significantly different from the other observations in the data set	
+D
+
+public_relations	
+Which common public relations tactic involves sending journalists on visits to appropriate locations?	
+A) Media release
+B) Media tour
+C) Press room
+D) Promotional days/weeks	
+B
+
+You are the vice president of public relations for a corporation that produces a well-known brand of food products. In the Albany, New York, market, one of your products has recently been found to have some contamination. While apparently not fatal, it has given a large number of consumers severe stomach cramps and other intestinal problems. The cause has been traced back to your product, which is sold throughout the nation. Your CEO wants to know what you would advise to keep the situation from becoming a public relations disaster. What should you recommend?	
+A) Quickly investigate to make certain your product is definitely the cause of the illness.
+B) Stop all sales of the product throughout the nation and issue a recall for that product.
+C) Stop sales of the product in the Albany, New York, market and issue a recall for that product.
+D) Issue a press release to the Albany, New York, market explaining how to treat the symptoms.	
+B
+
+In public relations, ________ deals with an organization's ability to satisfy and create a positive experience for its consumers.	
+A) community relations
+B) consumer relations
+C) employee relations
+D) public issues	
+B
+
+world_religions	
+Naturalists who concentrated on natural elements and processes are associated with which of the following?	
+A) Daoism
+B) Yin-Yang School
+C) Mengzi
+D) Humanistic Buddhism	
+B
