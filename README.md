@@ -1,3 +1,17 @@
+# awesome ko llm
+한국어로된 llm 정보 모음
+
+## 학습
+Microsft 에서 제공 : [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+한국어 랭체인 듀토리얼 langchain-kr : [langchain-kr](https://github.com/teddylee777/langchain-kr)
+Large Language Model Course : [llm-course](https://github.com/mlabonne/llm-course)
+
+## 실제 모델 학습, 실행 관련
+[axolotl](https://github.com/OpenAccess-AI-Collective/axolotl)
+[text-generation-webui](https://github.com/oobabooga/text-generation-webui)
+[mergekit](https://github.com/arcee-ai/mergekit)
+[open-webui](https://github.com/open-webui/open-webui)
+
 # llm-evaluation 
 레포트 작성할때 정리한 데이터 및 평가 데이터
 
@@ -34,13 +48,14 @@ LLM의 잠재력을 효과적으로 활용하고 안전하고 유익한 발전�
 모델 평가를 쉽게 할 수 있도록 도와주는 툴로는 다음과 같은 것들이 있습니다.
 
 - lm-evaluation-harness (한국어 평가 지원)
-- ko-lm-evaluation-harness
+- [ko-lm-evaluation-harness](https://github.com/Beomi/ko-lm-evaluation-harness)
 
 이들 툴을 사용하면 간단한 명령어로 모델들을 평가할 수 있습니다.
 
 ## VRAM 요구사항
 
 모델의 파라메터 수에 따른 VRAM 요구사항은 다음과 같습니다.
+> [cant-it-run-llm](https://huggingface.co/spaces/Vokturz/can-it-run-llm)
 
 | 파라메터 수 | FP16 | INT8 (양자화) | INT4 (양자화) |
 |-------------|------|----------------|----------------|
