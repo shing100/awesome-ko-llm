@@ -2,15 +2,15 @@
 한국어로된 llm 정보 모음
 
 ## 학습
-Microsft 에서 제공 : [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
-한국어 랭체인 듀토리얼 langchain-kr : [langchain-kr](https://github.com/teddylee777/langchain-kr)
-Large Language Model Course : [llm-course](https://github.com/mlabonne/llm-course)
+- Microsft 에서 제공 : [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)
+- 한국어 랭체인 듀토리얼 langchain-kr : [langchain-kr](https://github.com/teddylee777/langchain-kr)
+- Large Language Model Course : [llm-course](https://github.com/mlabonne/llm-course)
 
 ## 실제 모델 학습, 실행 관련
-[axolotl](https://github.com/OpenAccess-AI-Collective/axolotl)
-[text-generation-webui](https://github.com/oobabooga/text-generation-webui)
-[mergekit](https://github.com/arcee-ai/mergekit)
-[open-webui](https://github.com/open-webui/open-webui)
+- [axolotl](https://github.com/OpenAccess-AI-Collective/axolotl)
+- [text-generation-webui](https://github.com/oobabooga/text-generation-webui)
+- [mergekit](https://github.com/arcee-ai/mergekit)
+- [open-webui](https://github.com/open-webui/open-webui)
 
 # llm-evaluation 
 레포트 작성할때 정리한 데이터 및 평가 데이터
