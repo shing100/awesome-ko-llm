@@ -47,8 +47,10 @@ LLM의 잠재력을 효과적으로 활용하고 안전하고 유익한 발전�
 
 모델 평가를 쉽게 할 수 있도록 도와주는 툴로는 다음과 같은 것들이 있습니다.
 
-- lm-evaluation-harness (한국어 평가 지원)
+- [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) (한국어 평가 지원)
 - [ko-lm-evaluation-harness](https://github.com/Beomi/ko-lm-evaluation-harness)
+- [llm-kr-eval](https://github.com/wandb/llm-kr-eval)
+- [LogicKor](https://github.com/StableFluffy/LogicKor)
 
 이들 툴을 사용하면 간단한 명령어로 모델들을 평가할 수 있습니다.
 
