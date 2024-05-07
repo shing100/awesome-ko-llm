@@ -35,6 +35,34 @@ LLM의 잠재력을 효과적으로 활용하고 안전하고 유익한 발전�
 
 리서치 도중 찾은 Evaluating Large Language Models: A Comprehensive Survey에서는 LLM 평가를 Knowledge and Capability Evaluation, Alignment Evaluation, Safety Evaluation, Specialized LLMs Evaluation, Evaluation Organization 로 분류합니다.
 
+## Knowledge and Capability Evaluation Summary
+
+### 질문 응답
+- 질문 응답 능력 평가는 LLM 평가의 중요한 부분.
+- 주요 데이터셋: SQuAD, NarrativeQA, HotpotQA, CoQA 등.
+  
+### 지식 완성
+- LAMA, KoLA, WikiFact 등의 데이터셋 활용.
+  
+### 추론
+- 다양한 추론 유형 평가: 상식 추론, 논리 추론, 다단계 추론 등.
+- 평가용 데이터셋: ARC, QASC, MCTACO, TRACIE 등.
+- 모델의 상식 추론 능력 평가에 어려움 존재.
+  
+### 도구 학습
+- 도구 조작 및 생성 평가.
+- 예시: LaMDA, GeneGPT, ALFWorld 등.
+  
+### HellaSwag 평가
+- 상식적인 자연어 추론 능력 평가.
+- 주요 데이터셋: ActivityNet Captions, WikiHow.
+  
+### 모델 성능 평가
+- ChatGPT4, Solar-Mini가 우수한 성능.
+- 한글에 대한 ChatGPT4, Solar-Mini의 성능 우수.
+- 영어는 openchat-3.5-0106, Nous-Hermes-2-Mixtral-8x7B-DPO 우수.
+
+
 ### 한국(ko-llm)에서는 다음의 데이터셋을 사용하여 한국어 LLM 모델의 성능을 평가하고 있습니다.
 ### 평가 데이터셋
 - Ko-ARC
